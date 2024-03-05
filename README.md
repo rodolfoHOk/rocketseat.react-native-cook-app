@@ -2,6 +2,13 @@
 
 > React Native na Prática da Rockeatseat
 
+## Tecnologias
+
+- Typescript / Javascript
+- React Native / React
+- Expo
+- Supabase (BaaS)
+
 ## Links úteis
 
 [Expo fonts](https://docs.expo.dev/develop/user-interface/fonts/)
