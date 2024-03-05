@@ -13,7 +13,6 @@ export function Ingredient({
   selected = false,
   ...rest
 }: IngredientProps & PressableProps) {
-  console.log(image);
   return (
     <Pressable
       style={[styles.container, selected && styles.selected]}
