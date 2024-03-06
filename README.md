@@ -9,6 +9,21 @@
 - Expo
 - Supabase (BaaS)
 
+## Rodar
+
+### Requisitos
+
+- Node.js instalado
+- Android Studio com um Dispositivo Virtual instalado / ou dispositivo android físico com Expo Go instalado
+- clone deste repositório
+
+### Comandos
+
+- npm install
+- npx expo start
+- se Dispositivo Virtual: a (Android)
+- se dispositivo físico: abrir expo go e escanear QRCode
+
 ## Links úteis
 
 [Expo fonts](https://docs.expo.dev/develop/user-interface/fonts/)

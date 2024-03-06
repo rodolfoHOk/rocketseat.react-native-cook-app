@@ -24,9 +24,13 @@ export default function Recipes() {
   }, []);
 
   useEffect(() => {
-    services.ingredients
-      .findByRecipeId(id)
-      .then((response) => setIngredients(response));
+    services.ingredients.findByRecipeId(id).then((response) => {
+      const responseWithFullImageURL = response.map((response) => {
+        response.image = `${services.storage.imagePath}/${response.image}`;
+        return response;
+      });
+      setIngredients(responseWithFullImageURL);
+    });
   }, []);
 
   useEffect(() => {
