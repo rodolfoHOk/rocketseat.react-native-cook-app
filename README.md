@@ -9,6 +9,20 @@
 - Expo
 - Supabase (BaaS)
 
+## Galeria de images
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_01.png" alt="Cook App Imagem 01" height="400" />
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_02.png" alt="Cook App Imagem 02" height="400" />
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_03.png" alt="Cook App Imagem 03" height="400" />
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_04.png" alt="Cook App Imagem 04" height="400" />
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_05.png" alt="Cook App Imagem 05" height="400" />
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/cook_app_06.png" alt="Cook App Imagem 06" height="400" />
+
 ## Rodar
 
 ### Requisitos
